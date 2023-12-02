@@ -54,7 +54,7 @@
    &kp TAB   &kp Q         &kp W   &kp E             &kp R   &kp T            &kp HOME                                                                             &kp PG_UP   &kp Y          &kp KP_N7     &kp KP_N8      &kp KP_N9     &kp KP_MINUS  &kp EQUAL
  &kp LCTRL   &kp A         &kp S   &kp D             &kp F   &kp G             &kp END  &kp LEFT_COMMAND  &kp HOME                  &kp PG_UP  &kp RIGHT_COMMAND   &kp PG_DN   &kp H          &kp KP_N4     &kp KP_N5      &kp KP_N6      &kp KP_PLUS    &kp SQT
  &kp LSHFT   &kp Z         &kp X   &kp C             &kp V   &kp B               &none             &none   &kp END   &none   &none  &kp PG_DN              &none       &none   &kp N          &kp KP_N1     &kp KP_N2      &kp KP_N3     &kp KP_ENTER  &kp RSHFT
-     &mo 2   &mo 1  &kp LEFT_ALT     &mo  &kp LEFT_COMMAND                    &kp BSPC           &kp DEL     &mo 3                    &kp ESC          &kp ENTER   &kp KP_N0          &kp RIGHT_COMMAND  &kp KP_COMMA     &kp KP_DOT         &kp RBKT      &mo 2
+     &mo 2   &mo 1  &kp LEFT_ALT   &mo 0  &kp LEFT_COMMAND                    &kp BSPC           &kp DEL     &mo 3                    &kp ESC          &kp ENTER   &kp KP_N0          &kp RIGHT_COMMAND  &kp KP_COMMA     &kp KP_DOT         &kp RBKT      &mo 2
             >;
         };
 
@@ -64,7 +64,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans             &none                                                   &none  &trans  &trans          &trans          &trans           &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none  &trans  &trans                  &trans  &trans   &none  &trans  &trans          &trans    &kp UP_ARROW           &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none   &none  &trans   &none   &none  &trans   &none   &none  &trans  &trans  &kp LEFT_ARROW          &trans  &kp RIGHT_ARROW   &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans          &trans  &kp DOWN_ARROW           &trans      &bt
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans          &trans  &kp DOWN_ARROW           &trans   &trans
             >;
         };
 
